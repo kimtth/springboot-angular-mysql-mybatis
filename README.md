@@ -90,7 +90,7 @@ Execute `DDL.sql` file in `src/main/resources/mysql/`.
 
 Access and try this code from `http://localhost:8080/`.
 
-<img src="./src/main/img_main.png" width="50%">
+<img src="./src/main/resources/img_main.PNG" width="50%">
 
 ### Reference Documentation
 
